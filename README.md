@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View my solution](https://github.com/ErgunAtay/four-card-feature-section-master)
+- Solution URL: [View my solution](https://www.frontendmentor.io/solutions/responsive-four-card-section-with-bootstrap-CBj7Xl6l_Q)
 - Frontend Mentor Profile: [@ErgunAtay](https://www.frontendmentor.io/profile/ErgunAtay)
 - Live Site URL: [View live site](https://ergunatay.github.io/four-card-feature-section-master/)
 
